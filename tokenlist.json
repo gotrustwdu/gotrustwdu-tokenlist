@@ -6,7 +6,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/USERNAME/gotrustwdu-tokenlist/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/gotrustwdu/gotrustwdu-tokenlist/main/logo.png",
   "keywords": ["gotrustwdu", "tur", "bep20", "bsc"],
   "tokens": [
     {
@@ -15,7 +15,7 @@
       "name": "gotrustwdu Token",
       "symbol": "TUR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/USERNAME/gotrustwdu-tokenlist/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/gotrustwdu/gotrustwdu-tokenlist/main/logo.png"
     }
   ]
 }
